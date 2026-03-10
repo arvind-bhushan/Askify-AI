@@ -1,4 +1,4 @@
-export const BASE_URL = "https://askify-ai-vihd.onrender.com";
+export const BASE_URL = "https://askify-ai.vercel.app";
 
 export const API_PATHS = {
   AUTH: {
